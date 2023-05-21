@@ -1,23 +1,41 @@
-/* 页脚与头图透明 */
-#footer {
-    background: transparent !important;
-  }
-  #page-header {
-    background: transparent !important;
+<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>
+/* 头图透明 */
+#page-header:before{
+    background-color: transparent!important;
   }
   
-  /* 白天模式遮罩透明 */
-  #footer::before {
-    background: transparent !important;
-  }
-  #page-header::before {
-    background: transparent !important;
+  
+  /* 头图透明 */
+  #page-header{
+    background: transparent!important;
   }
   
-  /* 夜间模式遮罩透明 */
-  [data-theme="dark"] #footer::before {
-    background: transparent !important;
+  /* 页脚样式 */
+  #footer:before{
+    background-color: transparent !important;   /* 页脚设置为透明 */
   }
-  [data-theme="dark"] #page-header::before {
-    background: transparent !important;
+  
+  /* 页脚字体颜色 */ 
+  #footer-wrap {
+    position: relative;
+    color: #ffffff;                          
+    text-align: center;
+    padding: 2rem 1rem;
   }
+  
+  #page-header.post-bg:before {
+    background-color: transparent!important;
+  }
+  
+  
+   */
+  /*夜间模式伪类遮罩层透明*/
+  [data-theme="dark"]
+    #footer::before{
+        background: transparent!important;
+      }
+  [data-theme="dark"]
+    #page-header::before{
+      background: transparent!important;
+      }
+  

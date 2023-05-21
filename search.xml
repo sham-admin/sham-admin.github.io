@@ -8,7 +8,7 @@
       <link href="/2023/05/20/%E4%BB%A3%E7%A0%81%E5%9D%97%E7%9A%84%E6%BC%94%E7%A4%BA/%E6%BC%94%E7%A4%BA/"/>
       <url>/2023/05/20/%E4%BB%A3%E7%A0%81%E5%9D%97%E7%9A%84%E6%BC%94%E7%A4%BA/%E6%BC%94%E7%A4%BA/</url>
       
-        <content type="html"><![CDATA[<figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">ls /root</span><br></pre></td></tr></table></figure>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">ls /root</span><br></pre></td></tr></table></figure>]]></content>
       
       
       
@@ -21,7 +21,7 @@
       <link href="/2023/05/20/%E7%AC%AC%E4%B8%80%E4%B8%AA%E6%96%87%E7%AB%A0/"/>
       <url>/2023/05/20/%E7%AC%AC%E4%B8%80%E4%B8%AA%E6%96%87%E7%AB%A0/</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
       
       
       
